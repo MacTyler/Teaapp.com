@@ -145,7 +145,6 @@ h3 {
 
 html { 
 	background: url('../images/bglarge.jpg') top center no-repeat;
-	overflow-x:hidden;
 	overflow-y:scroll;
 }
 
