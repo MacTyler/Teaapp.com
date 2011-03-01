@@ -78,7 +78,7 @@ cursor:pointer;
 }
 
 .timer {
-	background:url('timer.png') top left no-repeat;
+	background:url('../images/timer.png') top left no-repeat;
 }
 
 .timer:hover {
@@ -86,21 +86,21 @@ cursor:pointer;
 }
 
 .notes {
-	background:url('notes.png') top left no-repeat;
+	background:url('../images/notes.png') top left no-repeat;
 }
 
 .notes:hover {
 	background-position: bottom left;
 }
 .suggestions {
-	background:url('suggestions.png') top left no-repeat;
+	background:url('../images/suggestions.png') top left no-repeat;
 }
 
 .suggestions:hover {
 	background-position: bottom left;
 }
 .inventory {
-	background:url('inventory.png') top left no-repeat;
+	background:url('../images/inventory.png') top left no-repeat;
 }
 
 .inventory:hover {
@@ -142,7 +142,7 @@ h3 {
 }
 
 html { 
-	background: url('bglarge.jpg') top center no-repeat;
+	background: url('../images/bglarge.jpg') top center no-repeat;
 	overflow-x:hidden;
 	overflow-y:scroll;
 }
@@ -265,7 +265,7 @@ div.mc-field-group {
 	top: 550px;
 	left: 80px;
 	color: #fff;
-	background:url('form.png');
+	background:url('../images/form.png');
 	width: 510px;
 	height: 140px;
 }
