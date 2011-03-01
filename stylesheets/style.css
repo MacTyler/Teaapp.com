@@ -18,7 +18,7 @@ list-style-type:none;
 #content {
 	position: relative;
 	margin:0px;
-	padding-top: 500px;
+	padding-top: 700px;
 	min-width: 1000px;
 	max-width:1920px;
 }
@@ -118,7 +118,7 @@ h1 {
 #top  {
 	position: absolute;
 	top:5%;
-	left:20%;
+	left:17%;
 }
 h2 {
 	display:inline;
@@ -181,7 +181,7 @@ html {
     height: 100%;
     position: absolute;
     top:4%;
-    right:2%;
+    right:1%;
     /*-webkit-transform:rotate(3deg);
     -moz-transform: rotate(3deg);
     filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=3);*/
