@@ -118,7 +118,7 @@ h1 {
 #top  {
 	position: absolute;
 	top:5%;
-	left:17%;
+	left:20%;
 }
 h2 {
 	display:inline;
@@ -180,7 +180,7 @@ html {
     height: 100%;
     position: absolute;
     top:4%;
-    right:1%;
+    right:2%;
     /*-webkit-transform:rotate(3deg);
     -moz-transform: rotate(3deg);
     filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=3);*/
